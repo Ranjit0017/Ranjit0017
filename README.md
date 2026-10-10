@@ -12,7 +12,7 @@
 
 ### About me
 
-- 🔭 **Software Engineer at eSparkBiz Technologies**: building a production multi-tenant CRM with a workflow automation engine, OAuth2/JWT auth with RBAC, real-time chat and Google / Zoom integrations
+- 🔭 **Software Engineer**: building a production multi-tenant CRM with a workflow automation engine, OAuth2/JWT auth with RBAC, real-time chat and Google / Zoom integrations
 - 🤖 **Agentic AI**: LangGraph multi-agent workflows, RAG pipelines, vector databases, evaluation and guardrails
 - ☁️ **Cloud & DevOps**: AWS, Docker, Kubernetes, Terraform and GitHub Actions CI/CD with zero-downtime deployments
 - 🧪 **How I work**: Agile sprints and test-driven development, from requirements to long-term support
