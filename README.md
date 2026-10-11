@@ -56,6 +56,21 @@
 
 ---
 
+### System design
+
+| Area | Concepts |
+|---|---|
+| 🏗️ Architecture | Monolith · Microservices · Distributed systems · Serverless |
+| 📨 Event-driven & messaging | Event-driven architecture · Message queues · Pub/Sub |
+| 🗄️ Data & storage | SQL vs NoSQL · DB indexes · DB sharding · Master–slave replication |
+| 📈 Scalability & availability | Load balancer · Horizontal / vertical scaling · High availability · Caching · CDN |
+| 🔐 APIs & security | API design · OAuth2 · Token-based auth · Rate limiting · Security best practices |
+| 📊 Observability | Monitoring · Logging · Metrics · Alerting |
+| 🚀 Deployment strategies | Blue/green · Rolling updates · Canary releases · Incremental rollout |
+| 🧪 Performance testing | Stress testing · Load testing · JMeter |
+
+---
+
 ### Featured projects
 
 **🏢 Multi-Tenant CRM Platform**: React · Node.js · TypeScript · PostgreSQL · Redis · WebSockets · LangGraph · Docker
